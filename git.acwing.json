@@ -1,6 +1,9 @@
 {"urls":[
 
-        {"name": "🏡【主仓线】","url": "https://git.acwing.com/999/tvbox/-/raw/main/影视.json"},
+        {
+            "name": "🏡【主仓线】",
+            "url": "https://git.acwing.com/999/tvbox/-/raw/main/影视.json"
+        },
         {
             "url": "http://www.饭太硬.com/tv",
             "name": "⚡多多┃饭太硬线路"
