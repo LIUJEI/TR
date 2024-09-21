@@ -6,11 +6,11 @@
     },
     {
       "url": "https://weixine.net/ysc.json",
-      "name": "大件运输❤仓库"
+      "name": "大件运输仓库"
     },
     {
       "url": "https://raw.liucn.cc/box/m.json",
-      "name": "刘cn❤仓库"
+      "name": "刘cn仓库"
     },
     {
       "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
@@ -41,6 +41,10 @@
       "name": "🚀天天开心"
     }, 
             {
+      "url": "http://mdxgh.tpddns.cn:9999/",
+      "name": "🚀码点小干货"
+    },
+             {
       "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
       "name": "🚀插兜线路"
     },
