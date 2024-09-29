@@ -13,10 +13,6 @@
       "name": "🚀大件运输仓库"
     },
     {
-      "url": "https://raw.liucn.cc/box/m.json",
-      "name": "🚀刘cn仓库"
-    },
-    {
       "url": "https://gitee.com/tv888/tv/raw/master/svip.json",
       "name": "🚀天微影视VIP线🚀"
     },  
@@ -49,16 +45,20 @@
       "name": "🚀潇洒空间"
     },
     {
-            "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
-            "name": "🚀┃春盈线路"
+        "url": "https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
+        "name": "🚀┃春盈线路"
     },
     {
-            "url": "http://ztha.top/TVBox/thdjk.json",
-            "name": "🚀┃挺好线路"
+        "url": "http://ztha.top/TVBox/thdjk.json",
+        "name": "🚀┃挺好线路"
     },
     {
-            "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
-            "name": "🚀┃无意云线路"
+        "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
+        "name": "🚀┃无意云线路"
+    },
+    {
+        "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+        "name": "🚀┃不良帅线路"
     },
     {
       "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
@@ -69,12 +69,8 @@
       "name": "🚀一十线路"
     },
     {
-      "url": "https://szyyds.cn/tv/x.json",
-      "name": "🚀小马线路"
-    },
-    {
-      "url": "http://home.jundie.top:81/top98.json",
-      "name": "🚀俊佬线路"
+        "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+        "name": "☀️业余线路"
     },
     {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydfjk.json",
@@ -83,6 +79,10 @@
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
       "name": "🚀夜猫子线路"
+    },
+    {
+      "url": "https://raw.liucn.cc/box/m.json",
+      "name": "🚀刘cn仓库"
     },
     {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
