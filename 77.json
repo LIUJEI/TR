@@ -1,9 +1,8 @@
 {
   "urls": [
-  
-    
     {"name": "🚸《短剧》","url": "https://git.acwing.com/999/tvbox/-/raw/main/短剧.json"},
-    {"name": "🚫《休闲》🈲","url": "https://git.acwing.com/999/tvbox/-/raw/main/休闲.json"}
-   
+    {"name": "🚸《优汐》","url": "https://7154.kstore.space/优汐夸父无需配置.json"},
+    {"name": "🚸《摸鱼》","url": "http://我不是.摸鱼儿.top"},
+    {"name": "🚸《休闲》🈲","url": "https://git.acwing.com/999/tvbox/-/raw/main/休闲.json"}
 ]
 }
