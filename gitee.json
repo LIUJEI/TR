@@ -28,7 +28,6 @@
       "url": "http://47.99.102.252/xc.json",
       "name": "📁星辰📁"
     },
- 
     {
       "url": "https://gh.con.sh/https://raw.githubusercontent.com/maoystv/6/main/001.json",
       "name": "📁分享📁"
@@ -37,69 +36,30 @@
       "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
       "name": "📁网友📁"
     },
-    
-   
-  {
-      "url": "https://gh.con.sh/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-      "name": "📁PG📁"
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "📁摸鱼📁"
     },
-      
-
- 
-         {
-            "url": "http://我不是.摸鱼儿.top",
-            "name": "📁摸鱼📁"
-        },
-  
-     {
+    {
       "url": " http://ok321.top/tv",
       "name": "📁OK📁"
     },
     {
       "url": "http://home.jundie.top:81/top98.json",
       "name": "📁俊佬📁"
-    },
-      
-    {
-      "url": "http://www.饭太硬.com/tv",
-      "name": "📁饭硬📁"
-    },
-    {
-      "url": "https://weixine.net/ysc.json",
-      "name": "📁运输📁"
-    },
+    }, 
     {
       "url": "https://cdn05042023.gitlink.org.cn/feimao/jk/raw/branch/master/T4.json",
       "name": "📁无名📁"
     },
     {
-      "url": "https://gitcode.net/xmbjm/hello/-/raw/master/omg.json",
-      "name": "📁时光📁"
-    },
-   
-    
-    {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
       "name": "📁高天📁"
     },
-   
-
-   
     {
-      "url": "http://肥猫.live",
-      "name": "📁肥猫📁"
-    },
- 
-    {
-      "url": "http://rihou.cc:88/荷城茶秀",
-      "name": "📁荷城📁"
-    },
-    
-         {
-            "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
-           "name": "📁道长📁"
-        },
-       
+      "url": "https://cdn.gitmirror.com/gl/duomv/dzhipy/main/index.json",
+      "name": "📁道长📁"
+    },  
     {
       "url": "https://www.100km.top/0",
       "name": "📁Leezn📁"
@@ -108,36 +68,18 @@
       "url": "http://ygbhbox.3vfree.club/pg/jsm.json",
       "name": "📁宝盒📁"
     },
-   
- 
-   
     {
       "url": "https://gitee.com/ds360/ds/raw/master/yingshi.json",
       "name": "📁 国军📁"
     },
     {
       "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
-      "name": "📁不良帅📁"
+      "name": "📁良帅📁"
     },
-   
     {
       "url": "https://tv.xn--11x555b.top/svip",
       "name": "📁蜗牛📁"
     },
-    {
-      "url": "https://lltv8.top",
-      "name": "📁猎狼📁"
-    },
-    {
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/qgys/qgys/main/11.jsonn",
-      "name": "📁强哥📁"
-    },
-    
-    {
-      "url": " https://gitlink.org.cn/api/hailin/aishangtv5/raw/tvbox/aishang.json?ref=master",
-      "name": "📁春英📁"
-    },
- 
     {
       "url": "https://www.xn--rgv465a.top/无界线路禁止贩卖",
       "name": "📁无间📁"
@@ -148,23 +90,23 @@
     },
     {
         "url": "https://cdn05042023.gitlink.org.cn/wykj/ys/raw/branch/master/ya.json",
-        "name": "🚀┃无意云线路"
+        "name": "📁意云线路"
     },
     {
         "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
-        "name": "🚀┃不良帅线路"
+        "name": "📁不良帅线路"
     },
     {
       "url": "http://jin.锦哥哥.love",
-      "name": "🚀一十线路"
+      "name": "📁一十线路"
     },
     {
         "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-        "name": "☀️业余线路"
+        "name": "📁业余线路"
     },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/夜猫子.json",
-      "name": "🚀夜猫子线路"
+      "name": "📁夜猫子线路"
     }
     
   ]
