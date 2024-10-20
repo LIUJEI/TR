@@ -1,9 +1,9 @@
 {
 "storeHouse": [
 
-{"sourceName":"①🍱琉芸仓库","sourceUrl":"https://github.moeyy.xyz/https://github.com/LIUJEI/TR/raw/main/GitHub.json"},
-{"sourceName":"②🎎多多仓库","sourceUrl":"https://github.moeyy.xyz/https://github.com/LIUJEI/TR/raw/main/git.json"},
-{"sourceName":"③🎁水友仓库","sourceUrl":"https://github.moeyy.xyz/https://github.com/LIUJEI/TR/raw/main/gitee.json"},
-{"sourceName":"④🖼我的本地（测试禁用）","sourceUrl":"https://github.moeyy.xyz/https://github.com/LIUJEI/TR/raw/main/测试.json"}
+{"sourceName":"①🍱琉芸仓库","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/AC.json"},
+{"sourceName":"②🎎多多仓库","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/BC.json"},
+{"sourceName":"③🎁水友仓库","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/CC.json"},
+{"sourceName":"④🖼我的本地（测试禁用）","sourceUrl":"https://gitee.com/lyun_1_0/tb/raw/master/DC.json"}
 
 ]}
